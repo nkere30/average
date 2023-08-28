@@ -7,7 +7,7 @@ public class Average {
         Scanner scanner = new Scanner(System.in);
         // Calculates and prints average of user enetered numbers
         int average = calculateAverage(scanner);
-        System.out.println("The average is: " + average);
+        System.out.println(average);
 
     }
 
